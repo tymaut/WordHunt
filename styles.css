@@ -1,0 +1,29 @@
+body
+{
+	background-color: #aaaaaa;
+}
+#mainCanvas
+{
+	background-color: #ffffff;
+	width: 900px;
+	position: absolute;
+	top: 5%;
+	left: 17%;
+	z-index: 1;
+}
+#textCanvas
+{
+	background-color: #dddddd;
+	z-index: 2;
+	position: absolute;
+	bottom: 5%;
+	left: 40%;
+	width: 20%;
+	height: 5%;
+}
+#statArea
+{
+	position: absolute;
+	left: 0%;
+	top: 5%;
+}
